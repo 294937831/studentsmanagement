@@ -1,0 +1,4 @@
+﻿  main.c
+C:\static\快速访问 手动\考研\github\StudentManagement\StudentManagement\main.c(94,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\static\快速访问 手动\考研\github\StudentManagement\StudentManagement\main.c(110,27): warning C4552: ”<“: 未使用表达式结果
+  StudentManagement.vcxproj -> C:\static\快速访问 手动\考研\github\StudentManagement\x64\Debug\StudentManagement.exe
